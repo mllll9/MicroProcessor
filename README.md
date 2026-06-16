@@ -127,12 +127,7 @@ printf() %f 지정자 사용하기
 9p mbed Adafruit_SSD1306 라이브러리 수정
 10p 코드 7-1: OLED 제어 
 13p 실습문제 7-1
-1. SSD1306모듈의 I2C 주소를 OLED에 출력해보시오.
-• sprintf(buff, “%X”, val) : val값을 문자열로 변환하여 buff에 저장
 14p 실습문제 7-2
-DS3231 RTC에서 시간과 온도를 읽어서
-SSD1306에 디지털시계 형식으로 표시해 보시오.
-
 9. Timer/Counter PWM 응용
 	Timer/Counter
 	Modulation
